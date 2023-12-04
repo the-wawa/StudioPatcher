@@ -8,6 +8,7 @@ Search up "GameScript" in the applications' strings and go to the first cross re
 
 Press Tab to decompile the function in question.
 You should see something similar to this:
+
 ![image](https://github.com/the-wawa/StudioPatcher/assets/83979811/f4d53ebb-89b6-4808-8389-708687afbfed)
 
 You are interested in the if-statement that looks like this:
@@ -17,6 +18,7 @@ if ( sub_XXXXXXXXX() )
 ```
 
 Go to this function.
+
 ![image](https://github.com/the-wawa/StudioPatcher/assets/83979811/d7814fed-bf55-475d-9832-05c84448d653)
 
 You should see something similar to this.
