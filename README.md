@@ -1,6 +1,8 @@
-# StudioPatcher
+# Roblox Studio Patcher
+Please keep in mind that this is the first time I publish any sort of C++ code to Github!
+It may not be the best, but it should be 100% functional. This could *probably* be improved in some way
+
 This is an alternative way to force Roblox Studio to run in internal mode, since hex editing didn't work for me (I could not obtain the byte sequences necessary)
-This could *probably* be improved in some way? I'm not too certain, but it's in a functional state.
 
 # How to update this
 You will need IDA (Interactive Disassembler) or similar software which allows you to find references to strings.
