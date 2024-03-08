@@ -28,4 +28,4 @@ Go to this function.
 You should see something similar to this.
 
 Finally, these two variables contain our memory addresses.
-Modify Addresses.h to include them and re-build the program to (hopefully) get a working patcher.
+Modify Addresses.h to include the rebased addresses (remove the first 2 digits from the memory addresses to rebase these) and re-build the program to (hopefully) get a working patcher.
