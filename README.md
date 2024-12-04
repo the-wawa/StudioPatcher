@@ -1,3 +1,7 @@
+> [!PLEASE READ]
+> This project is over a year old by now, and is absolutely NOT ideal! This could be done with signatures rather than memory offsets. I fully acknowledge this and advise against using it as per such.
+
+
 # Roblox Studio Internal Mode Patcher
 Please keep in mind that this is the first time I publish any sort of C++ code to Github!
 It may not be the best, but it should be 100% functional. This could *probably* be improved in some way
