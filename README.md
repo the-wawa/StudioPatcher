@@ -1,4 +1,4 @@
-> [!PLEASE READ]
+> [!CAUTION]
 > This project is over a year old by now, and is absolutely NOT ideal! This could be done with signatures rather than memory offsets. I fully acknowledge this and advise against using it as per such.
 
 
